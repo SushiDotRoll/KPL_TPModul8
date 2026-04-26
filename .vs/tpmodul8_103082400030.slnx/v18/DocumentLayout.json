@@ -5,6 +5,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul8_103082400030\\tpmodul8_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|solutionrelative:tpmodul8_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul8_103082400030\\tpmodul8_103082400030\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|solutionrelative:tpmodul8_103082400030\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul8_103082400030\\tpmodul8_103082400030\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|solutionrelative:tpmodul8_103082400030\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|tpmodul8_103082400030||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BE930-9031-49BB-B19C-0E203B7BD098}|tpmodul8_103082400030\\tpmodul8_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul8_103082400030\\tpmodul8_103082400030\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +40,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tpmodul8_103082400030",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\tpmodul8_103082400030.csproj",
+              "RelativeDocumentMoniker": "tpmodul8_103082400030\\tpmodul8_103082400030.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\tpmodul8_103082400030.csproj",
+              "RelativeToolTip": "tpmodul8_103082400030\\tpmodul8_103082400030.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-26T08:24:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103082400030\\CovidConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_103082400030\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:21:59.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_103082400030\\covid_config.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_103082400030\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T08:21:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_103082400030\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul8_103082400030\\tpmodul8_103082400030\\Program.cs",
               "RelativeToolTip": "tpmodul8_103082400030\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T08:18:34.402Z",
               "EditorCaption": ""
